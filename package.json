@@ -1,0 +1,24 @@
+{
+  "name": "programmanager",
+  "version": "1.0.0",
+  "description": "Enables to open or close programs on computer\\server using HTTP requests",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CohenINT/programmanager.git"
+  },
+  "author": "Kira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CohenINT/programmanager/issues"
+  },
+  "homepage": "https://github.com/CohenINT/programmanager#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
